@@ -1,4 +1,4 @@
-Hey! I am a Ph.D. student at the University of Bonn. I am interested in **scalable, principled** methods for analyzing graph data.
+Hey! I am a Research Scientist at Google Research, NYC. I did my Ph.D. at the University of Bonn. I am interested in **scalable, principled** methods for analyzing graph data.
 
 You can find more about my work on [Google Scholar](https://scholar.google.de/citations?hl=en&user=hssTYQMAAAAJ) and [personal website](http://tsitsul.in/). Follow me on [Twitter](https://twitter.com/tsitsulin_) to get the latest updates.
 
